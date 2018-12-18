@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: tifffile
+Version: 2016.6.21
+Summary: Read and write image data from TIFF files
+Home-page: UNKNOWN
+Author: Christoph Gohlke
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy (>=1.10)

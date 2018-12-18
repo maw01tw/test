@@ -1,0 +1,8 @@
+setup.py
+tifffile/__init__.py
+tifffile/tifffile.c
+tifffile/tifffile.py
+tifffile.egg-info/PKG-INFO
+tifffile.egg-info/SOURCES.txt
+tifffile.egg-info/dependency_links.txt
+tifffile.egg-info/top_level.txt
